@@ -1,25 +1,25 @@
 // Dummy images for different categories
 const imageCategories = {
     markets: [
-        "Images/Markets.png"
+        "images/Markets.png"
     ],
     highDensityIntersection: [
-        "Images/High-Density Intersection points.png"
+        "images/High-Density Intersection points.png"
     ],
       hospitals: [
-        "Images/Hospitals.png"
+        "images/Hospitals.png"
     ],
        highDensityRoads: [
-        "Images/High-Density Roads.png"
+        "images/High-Density Roads.png"
     ],
     schools: [
-        "Images/Schools.png"
+        "images/Schools.png"
     ],
       fatalPoints: [
-        "Images/Fatal points.png"
+        "images/Fatal points.png"
     ],
       highRiskZones: [
-        "Images/High-Risk Zones.png"
+        "images/High-Risk Zones.png"
     ]
   
 };
